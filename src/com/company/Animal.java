@@ -5,7 +5,7 @@ package com.company;
  */
 public class Animal {
     public Animal() {
-        System.out.println("A new animal has been created!");
+        System.out.println("\nA new animal has been created!");
     }
 
     public String sleep() {
