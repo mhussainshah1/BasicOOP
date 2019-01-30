@@ -12,7 +12,6 @@ public class AnimalApp {
         print(c.sleep());
         print(c.purr());
 
-
         Bird b = new Bird();
         print(b.eat());
         print(b.sleep());
